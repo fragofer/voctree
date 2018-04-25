@@ -39,6 +39,24 @@ Francisco Gómez-Fernández <fgomez@dc.uba.ar>
 Martin Rais <mrais@cmla.ens-cachan.fr>
 
 
+Citing this article
+===================
+If you use this code in your publication, plase cite our work:
+
+@article{ipol.2018.199,
+  title   = {Efficient Large-scale Image Search with a Vocabulary Tree},
+  author  = {Uriza, Esteban and G{\'o}mez-Fern{\'a}ndez, Francisco and Rais, Mart{\'i}n},
+  journal = {Image Processing On Line},
+  volume  = {8},
+  pages   = {1--28},
+  year    = {2018},
+  doi     = {10.5201/ipol.2018.199}, 
+}
+
+% if your bibliography style doesn't support doi fields:
+    note    = {\url{https://doi.org/10.5201/ipol.2018.199}}
+
+
 License
 =======
 This program is free software: you can use, modify and/or
