@@ -3,8 +3,8 @@ Efficient Large-scale Image Search With a Vocabulary Tree
 This is the source code used in the IPOL article:
 http://dev.ipol.im/~estebanuri/ipol_demo/voctree/input/doc/ipol_voctree_article.pdf
 
-version number: 1.1.0
-release date: dec.14.2017
+version number: 1.1.1
+release date: apr.25.2018
 
 Description
 ===========
