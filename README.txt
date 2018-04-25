@@ -35,7 +35,7 @@ The following basic functionalities provided from OpenCV were used:
 Authors and contact information
 ===============================
 Esteban Uriza <euriza@dc.uba.ar>
-Francisco Gomez Fernandez <fgomezf@dc.uba.ar>
+Francisco Gómez-Fernández <fgomez@dc.uba.ar>
 Martin Rais <mrais@cmla.ens-cachan.fr>
 
 
@@ -122,8 +122,8 @@ Compiling voctree
 Unzip the source code into a workspace directory, and compile it with make command.
 Also, CMakeLists.txt based project is provided.
 
-$ tar -xvf voctree_1.1.0.tar.gz
-$ cd voctree_1.1.0
+$ tar -xvf voctree_1.1.1.tar.gz
+$ cd voctree_1.1.1
 $ make
 
 
@@ -191,7 +191,7 @@ UPDATE INDEX:
 Source files
 ============
 
-List of source files provided: (All files are under review)
+List of source files provided:
 
 Catalog.cpp        ExtKmeans.h            KeyPointPersistor.h  Server.cpp
 Catalog.h          FeatureMethod.cpp      KMeans.cpp           Server.h

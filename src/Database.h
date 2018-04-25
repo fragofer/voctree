@@ -32,12 +32,14 @@ using namespace cv;
  * ****************************
  * Given a database root path <root> its directory structure is:
  *
+ * <root>/vocabulary: the path where files used to build the vocabulary are placed (required)
+ * <root>/input: the path where files to be indexed are placed (required)
  * <root>/data: the path where internal database data files are stored
- * <root>/input: the path where files to be indexed are placed
  * <root>/queries: a the path where to place files to be queried (might be empty)
  * <root>/results: the path where the database will write output results
- * <root>/vocabulary: the path where files used to build the vocabulary are placed
  *
+ * if these directories does not exist, building the database will create them,
+ * but required directories must be filled with files to be processed.
  *
  */
 class Database {

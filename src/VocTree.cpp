@@ -10,6 +10,7 @@
 
 
 #include <set>
+#include <limits>
 
 #include "MatPersistor.h"
 #include "VecPersistor.hpp"

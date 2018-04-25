@@ -246,7 +246,7 @@ void printHelpOptions(string cmd) {
     cout << "\t" << "-unlock: unlocks server" << endl;
     cout << endl;
     cout << "\t" << "for specific option parameters run:" << endl;
-    cout << "\t" << cmd << " <option> dbPath -help" << endl;
+    cout << "\t" << cmd << " -help <option>" << endl;
     cout << "---" << endl;
 
 
