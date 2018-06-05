@@ -1,7 +1,7 @@
 set(NAME engine)
 
 set(SOURCES
-		Catalog.cpp
+        Catalog.cpp
         Catalog.h
         Configuration.cpp
         Configuration.h
@@ -28,7 +28,7 @@ set(SOURCES
         Server.h
         ShootSegmenter.cpp
         ShootSegmenter.h
-		VecPersistor.hpp
+        VecPersistor.hpp
         VocTree.cpp
         VocTree.h
 ) # SOURCES
